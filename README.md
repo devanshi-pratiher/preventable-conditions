@@ -1,6 +1,6 @@
 # Preventable Hospitalizations For Medical Conditions
 
-## Rates of Preventable Hospitalizations (Age<18) for Selected Medical Conditions by County Dataset
+## Analysis of Preventable Hospitalizations for Selected Medical Conditions
 I am very passionate about more about preventable healthcare. With my personal experience visiting doctors and hospitals is how I have noticed that they are invested in providing medication to cure a disease but rarely do they talk about ways to prevent different diseases. This dataset contains prevented hospitalizations of patients with diseases if the patient had been provided the right consultation and treatment. A question I would like to answer is: What are the most common diseases where patients can be prevented from hospitalization with high-quality outpatient care?
 
 
